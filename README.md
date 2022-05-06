@@ -1,5 +1,6 @@
 # nano_shortcuts
 
+```
 ^G      (F1)            Display this help text
 ^X      (F2)            Close the current file buffer / Exit from nano
 ^O      (F3)            Write the current file to disk
@@ -74,3 +75,4 @@ M-F                     Multiple file buffers enable/disable
 M-M                     Mouse support enable/disable
 M-N                     No conversion from DOS/Mac format enable/disable
 M-Z                     Suspension enable/disable
+```
